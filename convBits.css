@@ -1,15 +1,22 @@
 body
     {
+      color: deeppink;
+      text text-align: center;
+      front-family:"courier";
+
       background-color:#000000dc;
       font-size:20px;
       font-family:"helvetica";
     }
     #titulo{
+
       margin:auto;
       text-align:center;
-      color: rgb(240, 239, 248);
+      font-weight: bold;
+      color: rgb(184, 115, 230);
     }
     #tabla{
+      border: 5px solid rgb(184, 115, 230);      
       margin:auto;
-      background-color: #a3b6e9;
+      background-color: #000000;
     }
